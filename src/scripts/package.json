@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@nestjs/typeorm": "^10.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.7",
+    "typeorm": "^0.3.20"
+  },
+  "type": "module",
+  "name": "coursework-db",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
